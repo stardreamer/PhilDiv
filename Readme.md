@@ -1,4 +1,5 @@
 # PhilDiv
+
 ![All](all.png)
 
 ## About
@@ -9,7 +10,7 @@ This repository contains a rework of [philosophos's](https://github.com/brndnmtt
 
 To use this configuration you just have to include following lines in your `.xprofile`.
 
-```
+```xprofile
 conky -c ~/.config/conky/conkyproc.conf &
 conky -c ~/.config/conky/conkycpu.conf &
 conky -c ~/.config/conky/conkydisk.conf &
