@@ -1,6 +1,6 @@
 # PhilDiv
 
-![All](all.png)
+![All](img/all.png)
 
 ## About
 
@@ -24,19 +24,19 @@ The configuration consists from 5 parts:
 
 * `conkycpu.conf` --- displays CPU and RAM usage info.
 
-![CPU](cpu.png)
+![CPU](img/cpu.png)
 
 * `conkydisk.conf` --- displays Disk usage info
 
-![Disk](disk.png)
+![Disk](img/disk.png)
 
 * `conkynet.conf` --- displays Network usage info
 
-![Net](net.png)
+![Net](img/net.png)
 
 * `conkyproc.conf` --- displays kernel version and top 10 CPU/RAM intensive programs
 
-![proc](proc.png)
+![proc](img/proc.png)
 
 * `conkyweather.conf` --- displays weather and current date
 
