@@ -40,6 +40,8 @@ The configuration consists from 5 parts:
 
 * `conkyweather.conf` --- displays weather and current date
 
+![proc](img/weather.png)
+
 Weather Forecast is being taken from [wttr.in](http://wttr.in/). The output of this web-service can be configured as shown in [the official help page](http://wttr.in/:help). For example `http:\\wttr.in?3nT` will give you the output like on the above picture but it will be represented in english.
 
 ## Requirements
